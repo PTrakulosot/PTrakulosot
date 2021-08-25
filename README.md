@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PTrakulosot. You can call me "Top"
+- 👀 I’m interested in Technology, Programming, K-pop, K-TvDrama
+- 🌱 I’m currently learning about React.JS & Node.JS
+- :email: p.trakulosot@gmail.com 
